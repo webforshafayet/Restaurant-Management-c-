@@ -1,0 +1,48 @@
+C:\Users\SHAFAYET\source\repos\ResturentManegment\ResturentManegment\bin\Debug\ResturentManegment.exe.config
+C:\Users\SHAFAYET\source\repos\ResturentManegment\ResturentManegment\bin\Debug\ResturentManegment.exe
+C:\Users\SHAFAYET\source\repos\ResturentManegment\ResturentManegment\bin\Debug\ResturentManegment.pdb
+C:\Users\SHAFAYET\source\repos\ResturentManegment\ResturentManegment\obj\Debug\ResturentManegment.csprojAssemblyReference.cache
+C:\Users\SHAFAYET\source\repos\ResturentManegment\ResturentManegment\obj\Debug\ResturentManegment.Properties.Resources.resources
+C:\Users\SHAFAYET\source\repos\ResturentManegment\ResturentManegment\obj\Debug\ResturentManegment.csproj.GenerateResource.cache
+C:\Users\SHAFAYET\source\repos\ResturentManegment\ResturentManegment\obj\Debug\ResturentManegment.csproj.CoreCompileInputs.cache
+C:\Users\SHAFAYET\source\repos\ResturentManegment\ResturentManegment\obj\Debug\ResturentManegment.exe
+C:\Users\SHAFAYET\source\repos\ResturentManegment\ResturentManegment\obj\Debug\ResturentManegment.pdb
+C:\Users\SHAFAYET\source\repos\ResturentManegment\ResturentManegment\obj\Debug\ResturentManegment.Dashboard.resources
+C:\Users\SHAFAYET\source\repos\ResturentManegment\ResturentManegment\obj\Debug\ResturentManegment.CustomerManager.resources
+C:\Users\SHAFAYET\source\repos\ResturentManegment\ResturentManegment\obj\Debug\ResturentManegment.FoodList.resources
+C:\Users\SHAFAYET\source\repos\ResturentManegment\ResturentManegment\obj\Debug\ResturentManegment.Salesman.resources
+C:\Users\SHAFAYET\source\repos\ResturentManegment\ResturentManegment\obj\Debug\ResturentManegment.InvoiceSalesman.resources
+C:\Users\SHAFAYET\source\repos\ResturentManegment\ResturentManegment\obj\Debug\ResturentManegment.InvoiceManager.resources
+C:\Users\SHAFAYET\source\repos\ResturentManegment\ResturentManegment\obj\Debug\ResturentManegment.Loginform.resources
+C:\Users\SHAFAYET\Downloads\RMS with design\ResturentManegment\bin\Debug\ResturentManegment.exe.config
+C:\Users\SHAFAYET\Downloads\RMS with design\ResturentManegment\bin\Debug\ResturentManegment.exe
+C:\Users\SHAFAYET\Downloads\RMS with design\ResturentManegment\bin\Debug\ResturentManegment.pdb
+C:\Users\SHAFAYET\Downloads\RMS with design\ResturentManegment\obj\Debug\ResturentManegment.csprojAssemblyReference.cache
+C:\Users\SHAFAYET\Downloads\RMS with design\ResturentManegment\obj\Debug\ResturentManegment.CustomerManager.resources
+C:\Users\SHAFAYET\Downloads\RMS with design\ResturentManegment\obj\Debug\ResturentManegment.InvoiceManager.resources
+C:\Users\SHAFAYET\Downloads\RMS with design\ResturentManegment\obj\Debug\ResturentManegment.InvoiceSalesman.resources
+C:\Users\SHAFAYET\Downloads\RMS with design\ResturentManegment\obj\Debug\ResturentManegment.Salesman.resources
+C:\Users\SHAFAYET\Downloads\RMS with design\ResturentManegment\obj\Debug\ResturentManegment.FoodList.resources
+C:\Users\SHAFAYET\Downloads\RMS with design\ResturentManegment\obj\Debug\ResturentManegment.Loginform.resources
+C:\Users\SHAFAYET\Downloads\RMS with design\ResturentManegment\obj\Debug\ResturentManegment.Dashboard.resources
+C:\Users\SHAFAYET\Downloads\RMS with design\ResturentManegment\obj\Debug\ResturentManegment.Properties.Resources.resources
+C:\Users\SHAFAYET\Downloads\RMS with design\ResturentManegment\obj\Debug\ResturentManegment.csproj.GenerateResource.cache
+C:\Users\SHAFAYET\Downloads\RMS with design\ResturentManegment\obj\Debug\ResturentManegment.csproj.CoreCompileInputs.cache
+C:\Users\SHAFAYET\Downloads\RMS with design\ResturentManegment\obj\Debug\ResturentManegment.exe
+C:\Users\SHAFAYET\Downloads\RMS with design\ResturentManegment\obj\Debug\ResturentManegment.pdb
+C:\Users\SHAFAYET\Desktop\RMS with design\ResturentManegment\bin\Debug\ResturentManegment.exe.config
+C:\Users\SHAFAYET\Desktop\RMS with design\ResturentManegment\bin\Debug\ResturentManegment.exe
+C:\Users\SHAFAYET\Desktop\RMS with design\ResturentManegment\bin\Debug\ResturentManegment.pdb
+C:\Users\SHAFAYET\Desktop\RMS with design\ResturentManegment\obj\Debug\ResturentManegment.csprojAssemblyReference.cache
+C:\Users\SHAFAYET\Desktop\RMS with design\ResturentManegment\obj\Debug\ResturentManegment.CustomerManager.resources
+C:\Users\SHAFAYET\Desktop\RMS with design\ResturentManegment\obj\Debug\ResturentManegment.InvoiceManager.resources
+C:\Users\SHAFAYET\Desktop\RMS with design\ResturentManegment\obj\Debug\ResturentManegment.InvoiceSalesman.resources
+C:\Users\SHAFAYET\Desktop\RMS with design\ResturentManegment\obj\Debug\ResturentManegment.Salesman.resources
+C:\Users\SHAFAYET\Desktop\RMS with design\ResturentManegment\obj\Debug\ResturentManegment.FoodList.resources
+C:\Users\SHAFAYET\Desktop\RMS with design\ResturentManegment\obj\Debug\ResturentManegment.Loginform.resources
+C:\Users\SHAFAYET\Desktop\RMS with design\ResturentManegment\obj\Debug\ResturentManegment.Dashboard.resources
+C:\Users\SHAFAYET\Desktop\RMS with design\ResturentManegment\obj\Debug\ResturentManegment.Properties.Resources.resources
+C:\Users\SHAFAYET\Desktop\RMS with design\ResturentManegment\obj\Debug\ResturentManegment.csproj.GenerateResource.cache
+C:\Users\SHAFAYET\Desktop\RMS with design\ResturentManegment\obj\Debug\ResturentManegment.csproj.CoreCompileInputs.cache
+C:\Users\SHAFAYET\Desktop\RMS with design\ResturentManegment\obj\Debug\ResturentManegment.exe
+C:\Users\SHAFAYET\Desktop\RMS with design\ResturentManegment\obj\Debug\ResturentManegment.pdb
